@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32398866498",
+    "project_id": "shorts-app-a7md",
+    "storage_bucket": "shorts-app-a7md.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32398866498:android:13f097a680f3651e2015db",
+        "android_client_info": {
+          "package_name": "com.example.shorts_a7md"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eWQWZ5EjW5xePK0SshCVORQyuCeiC30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32398866498:android:0186e44b3480254e2015db",
+        "android_client_info": {
+          "package_name": "com.example.shorts_a7md"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eWQWZ5EjW5xePK0SshCVORQyuCeiC30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
